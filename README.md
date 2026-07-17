@@ -91,7 +91,7 @@ Electronics and Communication Engineer passionate about Medical Image Computing,
 
 - 📄 *Eye Gaze Tracking Alarm System for Driver Distraction Detection*
 - 📄 *Eye Gaze Tracking Alarm System for Driver Distraction Detection: A Literature Review and Framework*
-- 📝 Ongoing Research in Image-Guided Surgical Navigation
+
 
 ---
 
