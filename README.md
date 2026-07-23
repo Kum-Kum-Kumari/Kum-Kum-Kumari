@@ -1,7 +1,7 @@
 # 💫 About Me:
 Electronics and Communication Engineer passionate about Medical Image Computing, Computer Vision, Image-Guided Surgical Navigation, and Software Development. Currently working as a Project Intern at Healthcare Technology Innovation Centre (HTIC), IIT Madras, developing software for medical imaging and image-guided navigation systems. Always eager to build impactful open-source solutions at the intersection of healthcare and technology.
 
-**Check out my Resume here: [Resume](https://drive.google.com/file/d/16Alvm6PQlzKsOkuZOIdyTOx0MhtwVCAp/view?usp=sharing)**
+<h2>Check out my Resume here: [Resume](https://drive.google.com/file/d/16Alvm6PQlzKsOkuZOIdyTOx0MhtwVCAp/view?usp=sharing)</h2>
 ---
 
 ## 🔭 Currently Working On
